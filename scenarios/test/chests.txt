@@ -1,0 +1,4 @@
+C1,Iron_sword,"You found an Iron Sword!"
+C1,Iron_sword,"You found an Iron Sword!
+C1,Iron_sword,"You found an Iron Sword!
+C1,Iron_sword,"You found an Iron Sword!

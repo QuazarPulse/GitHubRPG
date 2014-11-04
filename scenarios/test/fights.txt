@@ -1,0 +1,2 @@
+F1:
+(Goblin, 1) "A goblin appeared and is attaking you!"
