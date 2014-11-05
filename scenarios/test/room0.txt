@@ -1,0 +1,9 @@
+"Hall"/
+"Vous êtes dans un grand hall lumineux où
+plein de jolies options vous sont proposées!
+Il y a un coffre en face de vous, ainsi
+qu'une porte sur votre droite. Si vous le désirez
+Un ennemi peut apparaitre pour vous entrainer au combat"/
+open gate/G1/
+open chest/C1/
+fight/F1/

@@ -1,7 +1,0 @@
-Name: 
-"Hall"
-Texte:
-"Vous êtes dans un grand hall lumineux où plein de jolies options vous sont proposées!
-Il y a un coffre en face de vous, ainsi qu'une porte sur votre droite. Si vous le désirez
-Un ennemi peut apparaitre pour vous entrainer au combat"
-(Open chest: C1; Open Gate: G1; Fight: F1)
